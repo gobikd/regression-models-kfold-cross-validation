@@ -246,11 +246,15 @@ Research Interests:
 
 ---
 
-# Acknowledgement
+## Acknowledgement
 
-This project was developed as part of my learning journey with **Hope AI**.
+This project was developed as part of my machine learning journey with **[Hope AI](https://www.hopelearning.net/)**.
 
-Special thanks to the Hope AI instructors and community for providing practical machine learning guidance and real-world implementation examples.
+I would like to express my sincere appreciation to the Hope AI instructors and community for their practical guidance, 
+well-structured learning materials and a hands-on approach to machine learning. 
+Their teaching has helped me build a solid foundation in Python, regression modelling, K-Fold Cross-Validation, and model evaluation.
+
+This repository documents my personal implementation and understanding of the concepts learned throughout the course.
 
 ---
 
